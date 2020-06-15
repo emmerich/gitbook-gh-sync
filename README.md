@@ -1,1 +1,4 @@
-# gitbook-gh-sync
+# GitBook GitHub Sync
+
+Just testing my dudes.
+

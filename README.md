@@ -1,11 +1,1 @@
-# GitBook GitHub Sync
-
-Just testing my dudes.
-
-**
-**
-
-**hi
-**
-
-**hi2**
+Hey <p>there</p>!

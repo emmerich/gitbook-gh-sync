@@ -1,5 +1,5 @@
-<div>
+This is some Markdown text.
 
-<div><p>Hey there dude!</p></div>
+<div>This is some nested HTML.</div>
 
-</div>
+And this is some more Markdown text.

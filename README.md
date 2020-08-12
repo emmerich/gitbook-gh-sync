@@ -1,1 +1,2 @@
--   [Payment](https://github.com/vuejs/awesome-vue#payment)  -  [Stripe](https://github.com/vuejs/awesome-vue#stripe)  -  [Paypal](https://github.com/vuejs/awesome-vue#paypal)  -  [Plaid](https://github.com/vuejs/awesome-vue#plaid)
+**
+**

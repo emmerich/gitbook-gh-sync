@@ -1,3 +1,3 @@
-| First | Second |
-| ----- | ------ |
-| Hello | World  |
+| First | * Second |
+| ----- | -------- |
+| Hello | World    |

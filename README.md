@@ -1,3 +1,1 @@
-| First | * Second |
-| ----- | -------- |
-| Hello | World    |
+This [link](pages/pageID) points to a page.

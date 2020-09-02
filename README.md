@@ -1,1 +1,5 @@
-[](somePage "somePage")
+| Number cell   | Checkbox cell |
+| ------------- | ------------- |
+| 1             | [x]           |
+| 1.4123        | [ ]           |
+| -123.31234123 | [x]           |   

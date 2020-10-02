@@ -1,1 +1,1 @@
-hello <sup>world</sup>
+CO₂

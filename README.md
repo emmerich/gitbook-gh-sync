@@ -2,6 +2,5 @@
 
 You should talk to 
 
+or you could go [to this page](https://getsquad-dev-steven.firebaseapp.com/s/kqTqO4u2aVFkWy5Ftfmy)
 
-
-or you could vgo [to this page](https://getsquad-dev-steven.firebaseapp.com/s/kqTqO4u2aVFkWy5Ftfmy)

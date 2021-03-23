@@ -1,3 +1,3 @@
 # First Page
 
-First page, what's up doggy pooch!
+First page, what's up friend!

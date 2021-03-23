@@ -1,3 +1,3 @@
 # First Page
 
-First page, what's up dawg !
+First page, what's up dawg!

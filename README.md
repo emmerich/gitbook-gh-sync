@@ -1,1 +1,1 @@
-Hello world, today is a lovely day!
+Hello! Today is a lovely day!

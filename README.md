@@ -1,4 +1,3 @@
-# First Page
+# Getting Started
 
-Hello!
-
+You'll discover a brave new world!

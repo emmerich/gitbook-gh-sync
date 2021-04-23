@@ -1,3 +1,3 @@
 # yep
 
-Hello world! how are you? Great! Fantastic! Au top! Formidable! Génial!
+Hello world! how are you? Great! Fantastic! Au top! Formidable!

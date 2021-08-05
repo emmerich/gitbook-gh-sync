@@ -20,7 +20,7 @@
       style="text-align:left">
         <p>Links to Intel- and manufacturer-validated compatible components:</p>
         <ul>
-          <li>NUC8I7BEH: <a href="https://www.intel.com/content/www/us/en/products/boards-kits/nuc/kits/nuc8i7beh.html">Specification</a> |
+          <li>NUC8I7BEH: <a href="https://www.intel.com/content/www/us/en/products/boards-kits/nuc/kits/nuc8i7beh.html">**Specification**</a> |
             <a
             href="http://compatibleproducts.intel.com/ProductDetails?EPMID=126140">Component compatibility matrix</a>
           </li>

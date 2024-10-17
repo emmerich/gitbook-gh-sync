@@ -5,3 +5,7 @@ A set of methods for interacting with elements. Once the element is located and 
 
 | **Namespace** | `selenium-webdriver` |
 | ------------- | -------------------- |
+
+
+
+![alt text](./cat.png)

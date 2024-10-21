@@ -7,9 +7,7 @@ description: >-
 
 # Welcome
 
-{% hint style="info" %}
-:rocket: We're celebrating docs this week and launching several new features! Follow along with our daily announcement posts!
-{% endhint %}
+{% include ".gitbook/includes/launch-week-banner.md" %}
 
 We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
 

@@ -1,11 +1,12 @@
-| **Supported methods** | <ul><li><code>actions( options )</code></li><li><code>executeAsyncScript( script, ...args )</code></li><li><code>executeScript( script, ...args )</code></li><li><code>findElement( locator )</code></li><li><code>findElements( locator )</code></li><li><code>get( url )</code></li><li><code>getAllWindowHandles()</code></li><li><code>getCurrentUrl()</code></li><li><code>getPageSource()</code></li><li><code>getTitle()</code></li><li><code>getWindowHandle()</code></li><li><code>manage()</code></li><li><code>navigate()</code></li><li><code>sleep( ms )</code></li><li><code>switchTo()</code></li><li><code>wait( condition, timeout, message )</code></li></ul> |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+---
+description: >-
+  GitBook is a platform for capturing and documenting technical knowledge — from
+  product docs, to internal knowledge bases and APIs.
+icon: hand-wave
+---
 
-A set of methods for interacting with elements. Once the element is located and retrieved \\(by using the \`findElement()\` function or similar\\), it can be managed using the following methods.
+# Welcome
 
-| **Namespace** | `selenium-webdriver` |
-| ------------- | -------------------- |
+We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
 
-
-
-![alt text](./cat.png)
+Our mission is to make a **user-friendly** and **collaborative** product for everyone to create, edit and share knowledge through documentation.

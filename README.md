@@ -23,3 +23,5 @@ Our mission is to make a **user-friendly** and **collaborative** product for eve
 
 {% include ".gitbook/includes/launch-week-banner.md" %}
 
+{% include ".gitbook/includes/launch-week-banner.md" %}
+

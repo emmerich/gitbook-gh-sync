@@ -11,4 +11,9 @@ description: >-
 
 We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
 
+hi!
+
 Our mission is to make a **user-friendly** and **collaborative** product for everyone to create, edit and share knowledge through documentation.
+
+{% include ".gitbook/includes/launch-week-banner.md" %}
+
